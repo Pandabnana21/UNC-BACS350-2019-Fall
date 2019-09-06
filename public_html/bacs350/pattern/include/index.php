@@ -1,10 +1,14 @@
 <!doctype html>
 <html lang="en">
 
+<!--
+    Demonstrate the Include Design Pattern
+-->
+
 <head>
 
     <meta charset="utf-8">
-    <title>Blank UNC Page</title>
+    <title>Include Design Pattern</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/x-icon" href="http://shrinking-world.com/static/images/unc/favicon.ico">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
@@ -18,8 +22,8 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-sm-8">
-                    <h1>UNC BACS 200</h1>
-                    <h2>UNC PAGE DEMO</h2>
+                    <h1>UNC BACS 350</h1>
+                    <h2>Include Design Pattern</h2>
                 </div>
                 <div class="logo col-sm-4">
                     <div class="pull-right">
@@ -30,10 +34,9 @@
         </div>
     </header>
 
-    <main>
-        <h1>BLANK UNC PAGE</h1>
-    </main>
-
+    <?php
+        include 'template.html';
+    ?>
 
     <footer>
         <a href="https://shrinking-world.com">

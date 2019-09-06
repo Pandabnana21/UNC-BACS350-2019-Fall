@@ -4,11 +4,57 @@
         Create page content with a template.
     */
 
-    $site_title = "A Seaman's Brain";
+    $site_title = "Mitch Haley";
+    
     $page_title = 'BACS 350 Code Workshop';
-    $content = '<p> This is the beginning of something special.</p>';
 
-    include 'views.php';
+    $content = '
+        <p>
+            <a href="/bacs350">Home</a>
+        </p>
+        <p> 
+            <img src="/bacs350/project/02/pic.jpg" alt="mitch haley" width="200px"></img>
+        </p>
+        
+        <h3>Code</h3>
+        
+        <ul>
+            <li>
+                <a href="/bacs350/demo">My Code Demos</a>
+            </li>
+            <li>
+                <a href="/bacs350/pattern">My Design Patterns</a>
+            </li>
+            <li>
+                <a href="/bacs350/project">My Projects</a>
+            </li>
+        </ul>
+        
+        <h3>Web Services</h3>
+        
+        <ul>
+            <li>
+                <a href="https://www.unco.edu/canvas/">Canvas</a>
+            </li>
+            <li>
+                <a href="https://unco-bacs.org">WordPress site</a>
+            </li>
+            <li>
+                <a href="https://unco-bacs.org/bacs350">My Home Page</a>
+            </li>
+            <li>
+                <a href="https://shrinking-world.com/unc/bacs350">Sensei Server</a>
+            </li>
+            <li>
+                <a href="https://github.com/Mark-Seaman/UNC-BACS350-2019-Fall">Github</a>
+            </li>
+        </ul>
+        
+        
+    ';
+
+    include '../../views.php';
+
+    echo render_page($site_title, $page_title, $content);
 
 ?>
-

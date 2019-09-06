@@ -1,5 +1,5 @@
 <?php 
-    $title = 'My Name is ____________';
+    $title = 'My Name is Mitch';
     include "header.html"; 
 ?>
 
