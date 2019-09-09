@@ -13,7 +13,7 @@
             <a href="/bacs350">Home</a>
         </p>
         <p> 
-            <img src="/bacs350/project/02/pic.jpg" alt="mitch haley" width="200px"></img>
+            <img src="/bacs350/project/02/pic.jpg" alt="mitch haley" width="200px" align="left"></img>
         </p>
         
         <h3>Code</h3>
