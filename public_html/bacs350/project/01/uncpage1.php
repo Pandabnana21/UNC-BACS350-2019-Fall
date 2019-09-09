@@ -18,7 +18,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-sm-8">
-                    <h1>UNC BACS 200</h1>
+                    <h1>UNC BACS 350</h1>
                     <h2>UNC PAGE DEMO</h2>
                 </div>
                 <div class="logo col-sm-4">
