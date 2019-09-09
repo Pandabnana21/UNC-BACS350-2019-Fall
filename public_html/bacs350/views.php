@@ -32,7 +32,7 @@
                                 <div class="logo col-sm-4">
                                     <div class="pull-right">
                                         <img class="img-rounded img-responsive" 
-                                        src="/bacs350/images/Bear.200.png" 
+                                        src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Northern_Colorado_Bears_logo.svg/1200px-Northern_Colorado_Bears_logo.svg.png" 
                                         alt="UNC Bear" width="150px">
                                     </div>
                                 </div>
