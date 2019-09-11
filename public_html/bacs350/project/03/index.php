@@ -5,7 +5,7 @@
 <head>
 
     <meta charset="utf-8">
-    <title>Simple HTML for Cards</title>
+    <title>Porject 3 and Demo 7</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/x-icon" href="http://shrinking-world.com/static/images/unc/favicon.ico">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
@@ -36,34 +36,29 @@
     <div class="container-fluid">
         <div class="row">
 
-            <div class="card">
-                <div class="card-header">
-                    Batman
-                </div>
-                <div class="card-body card-padding">
-                    Batman drives a nice car
-                </div>
-            </div>
+           
 
-            <div class="card">
-                <div class="card-header">
-                    Spiderman
+            <div class="card" style="width: 18rem;">
+                <img src="image1.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 </div>
-                <div class="card-body card-padding">
-                    Spiderman shoots webs
                 </div>
-            </div>
 
-            <div class="card">
-                <div class="card-header">
-                    Iron Man
+            <div class="card" style="width: 18rem;">
+                <img src="image2.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 </div>
-                <div class="card-body card-padding">
-                    Iron man has a suit made of iron
                 </div>
-            </div>
-            
-        </div>
+        
+                <div class="card" style="width: 18rem;, height: 18rem">
+                <img src="image3.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                </div>
+                </div>
+    </div>
     </div>
 </main>
 
