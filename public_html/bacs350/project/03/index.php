@@ -19,8 +19,8 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-8">
-                <h1>UNC BACS 200</h1>
-                <h2>UNC PAGE DEMO</h2>
+                <h1>Superhero Gallery</h1>
+                <h2>Card Lesson</h2>
             </div>
             <div class="logo col-sm-4">
                 <div class="pull-right">
@@ -38,33 +38,36 @@
 
             <div class="card">
                 <div class="card-header">
-                    CARD 1 TITLE
+                    Batman
                 </div>
                 <div class="card-body card-padding">
-                    CARD 1 BODY
+                    Batman drives a nice car
                 </div>
             </div>
 
             <div class="card">
                 <div class="card-header">
-                    CARD 2 TITLE
+                    Spiderman
                 </div>
                 <div class="card-body card-padding">
-                    CARD 2 BODY
+                    Spiderman shoots webs
                 </div>
             </div>
 
+            <div class="card">
+                <div class="card-header">
+                    Iron Man
+                </div>
+                <div class="card-body card-padding">
+                    Iron man has a suit made of iron
+                </div>
+            </div>
+            
         </div>
     </div>
 </main>
 
-<footer>
-    <a href="https://shrinking-world.com">
-        <div class="logo-text">Copyright &copy; 2019 Shrinking World</div>
-        <img class="img-rounded img-responsive" src="https://shrinking-world.com/static/images/SWS_Globe_small.jpg"
-             alt="Shrinking World Solutions" width="150px">
-    </a>
-</footer>
+
 
 
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
