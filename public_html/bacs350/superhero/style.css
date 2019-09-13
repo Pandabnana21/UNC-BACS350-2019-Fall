@@ -1,23 +1,58 @@
+body {
+    padding: 2em;
+}
+
+header {
+    border: 5px solid #F6B018;
+    background-color: #0E3D65;
+    font-family: sans-serif;
+    padding: .5em;
+}
+
+header a {
+    color: white;
+}
+
+header a:hover {
+    color: #F6B018;
+}
+
+header h1 {
+    color: #F6B018;
+    border: none;
+    padding: 0;
+    margin: 20px 0;
+    box-shadow: none;
+    text-align: center;
+}
+
+header h2 {
+    color: white;
+    background-color: #0E3D65;
+    box-shadow: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+
+}
+
+header img {
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+
+
 .card {
-  /* Add shadows to create the "card" effect */
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  transition: 0.3s;
-      border-radius: 5px; /* 5px rounded corners */
+    margin: 20px;
+    border: 1px solid #0E3D65;
+    width: 40%;
+    color: lightblue;
+}
+
+.card-header {
     padding: 10px;
-
-}
-
-/* On mouse-over, add a deeper shadow */
-.card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-}
-
-/* Add some padding inside the card container */
-.container {
-  padding: 2px 16px;
-}
-
-
-img {
-  border-radius: 5px 5px 0 0;
+    font-weight: bold;
+    color: lightblue;
+    background-color: #0E3D65;
 }
