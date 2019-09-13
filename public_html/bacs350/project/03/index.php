@@ -5,7 +5,7 @@
 <head>
 
     <meta charset="utf-8">
-    <title>Porject 3 and Demo 7</title>
+    <title>Simple HTML for Cards</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/x-icon" href="http://shrinking-world.com/static/images/unc/favicon.ico">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">

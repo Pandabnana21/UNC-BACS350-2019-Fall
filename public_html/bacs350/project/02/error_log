@@ -1,0 +1,72 @@
+[06-Sep-2019 21:48:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function render_page() in /home4/bearsnin/public_html/bacs350/project/02/index.php:58
+Stack trace:
+#0 {main}
+  thrown in /home4/bearsnin/public_html/bacs350/project/02/index.php on line 58
+[06-Sep-2019 22:50:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function render_page() in /home4/bearsnin/public_html/bacs350/project/02/index.php:58
+Stack trace:
+#0 {main}
+  thrown in /home4/bearsnin/public_html/bacs350/project/02/index.php on line 58
+[06-Sep-2019 22:59:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function render_page() in /home4/bearsnin/public_html/bacs350/project/02/index.php:58
+Stack trace:
+#0 {main}
+  thrown in /home4/bearsnin/public_html/bacs350/project/02/index.php on line 58
+[06-Sep-2019 23:04:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function render_page() in /home4/bearsnin/public_html/bacs350/project/02/index.php:58
+Stack trace:
+#0 {main}
+  thrown in /home4/bearsnin/public_html/bacs350/project/02/index.php on line 58
+[06-Sep-2019 23:09:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function render_page() in /home4/bearsnin/public_html/bacs350/project/02/index.php:58
+Stack trace:
+#0 {main}
+  thrown in /home4/bearsnin/public_html/bacs350/project/02/index.php on line 58
+[09-Sep-2019 07:44:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function render_page() in /home4/bearsnin/public_html/bacs350/project/02/index.php:58
+Stack trace:
+#0 {main}
+  thrown in /home4/bearsnin/public_html/bacs350/project/02/index.php on line 58
+[09-Sep-2019 10:56:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function render_page() in /home4/bearsnin/public_html/bacs350/project/02/index.php:58
+Stack trace:
+#0 {main}
+  thrown in /home4/bearsnin/public_html/bacs350/project/02/index.php on line 58
+[09-Sep-2019 20:21:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function render_page() in /home4/bearsnin/public_html/bacs350/project/02/index.php:58
+Stack trace:
+#0 {main}
+  thrown in /home4/bearsnin/public_html/bacs350/project/02/index.php on line 58
+[09-Sep-2019 20:25:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function render_page() in /home4/bearsnin/public_html/bacs350/project/02/index.php:58
+Stack trace:
+#0 {main}
+  thrown in /home4/bearsnin/public_html/bacs350/project/02/index.php on line 58
+[09-Sep-2019 20:27:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function render_page() in /home4/bearsnin/public_html/bacs350/project/02/index.php:58
+Stack trace:
+#0 {main}
+  thrown in /home4/bearsnin/public_html/bacs350/project/02/index.php on line 58
+[09-Sep-2019 20:29:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function render_page() in /home4/bearsnin/public_html/bacs350/project/02/index.php:58
+Stack trace:
+#0 {main}
+  thrown in /home4/bearsnin/public_html/bacs350/project/02/index.php on line 58
+[09-Sep-2019 20:30:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function render_page() in /home4/bearsnin/public_html/bacs350/project/02/index.php:58
+Stack trace:
+#0 {main}
+  thrown in /home4/bearsnin/public_html/bacs350/project/02/index.php on line 58
+[09-Sep-2019 20:48:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function render_page() in /home4/bearsnin/public_html/bacs350/project/02/index.php:58
+Stack trace:
+#0 {main}
+  thrown in /home4/bearsnin/public_html/bacs350/project/02/index.php on line 58
+[09-Sep-2019 20:48:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function render_page() in /home4/bearsnin/public_html/bacs350/project/02/index.php:58
+Stack trace:
+#0 {main}
+  thrown in /home4/bearsnin/public_html/bacs350/project/02/index.php on line 58
+[09-Sep-2019 20:48:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function render_page() in /home4/bearsnin/public_html/bacs350/project/02/index.php:58
+Stack trace:
+#0 {main}
+  thrown in /home4/bearsnin/public_html/bacs350/project/02/index.php on line 58
+[10-Sep-2019 04:08:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function render_page() in /home4/bearsnin/public_html/bacs350/project/02/index.php:58
+Stack trace:
+#0 {main}
+  thrown in /home4/bearsnin/public_html/bacs350/project/02/index.php on line 58
+[11-Sep-2019 20:33:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function render_page() in /home4/bearsnin/public_html/bacs350/project/02/index.php:58
+Stack trace:
+#0 {main}
+  thrown in /home4/bearsnin/public_html/bacs350/project/02/index.php on line 58
+[11-Sep-2019 21:09:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function render_page() in /home4/bearsnin/public_html/bacs350/project/02/index.php:58
+Stack trace:
+#0 {main}
+  thrown in /home4/bearsnin/public_html/bacs350/project/02/index.php on line 58
