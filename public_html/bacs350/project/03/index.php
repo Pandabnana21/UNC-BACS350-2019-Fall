@@ -21,6 +21,7 @@
             <div class="col-sm-8">
                 <h1>Superhero Gallery</h1>
                 <h2>Card Lesson</h2>
+                 <h2>With PHP Click <a href="../../superhero/index.php"> here</a></h2>
             </div>
             <div class="logo col-sm-4">
                 <div class="pull-right">

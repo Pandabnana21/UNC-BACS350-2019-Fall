@@ -47,12 +47,12 @@ header img {
     margin: 20px;
     border: 1px solid #0E3D65;
     width: 40%;
-    color: lightblue;
+    color: yellowgreen;
 }
 
 .card-header {
     padding: 10px;
     font-weight: bold;
-    color: lightblue;
-    background-color: #0E3D65;
+    color: yellow;
+    background-color: #356436;
 }
