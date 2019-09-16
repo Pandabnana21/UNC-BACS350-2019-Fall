@@ -19,7 +19,7 @@
             Define the custom data as variables and include the template.
         </p>
         <p> 
-            Call a function that returns HTML with the custom data passed as parameters.
+            Call a function that returns HTML with the custom data passed as parameters. k
         </p>
     ';
 
