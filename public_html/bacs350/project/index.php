@@ -26,6 +26,9 @@
             <li>
                 <a href="03">Project #3 - Superhero Cards PHP</a>
             </li>
+             <li>
+                <a href="../planner">Project #4 - Planner Sheet</a>
+            </li>
         </ul>
     ';
 
