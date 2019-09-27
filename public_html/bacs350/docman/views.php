@@ -35,9 +35,11 @@
             <!DOCTYPE html>
             <html lang="en">
                 <head>
+                
                     <meta charset="UTF-8">
                     <title>' . $page_title . '</title>
                     <link rel="icon" type="image/x-icon" href="/bacs350/favicon.ico">
+                    
                     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
                     <link rel="stylesheet" href="style.css">
                 </head>
@@ -53,7 +55,7 @@
                                     <div class="pull-right">
                                         <img class="img-rounded img-responsive"
                                         src="https://process.images.nathab.com/A6dTpd53SmIg0pBfJJhgAz/resize=width:1224/quality=value:60/cache=expiry:31536000/compress/https://www.nathab.com/uploaded-files/carousels/HERO/Alaska-North/36-The-Great-Alaskan-Grizzly-Encounter.jpg"
-                                        alt="UNC Bear" width="150px">
+                                        alt="UNC Bear" width="250px">
                                     </div>
                                 </div>
                             </div>

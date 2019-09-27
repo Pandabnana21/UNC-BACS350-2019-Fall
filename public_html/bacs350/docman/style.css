@@ -22,7 +22,7 @@ img {
 }
 
 pre {
-    border: 1px solid #lightyellow;
+    border: 1px solid red;
     box-shadow: 2px 2px 5px grey;
     padding: 1em;
     margin: 2em;
@@ -30,12 +30,12 @@ pre {
 
 .card {
     margin: 20px;
-    border: 1px solid #lightblue;
+    border: 1px solid ;
 }
 
 .card-header {
     padding: 10px;
     font-weight: bold;
-    color: white;
-    background-color: #maroon;
+    color: #d84939;
+    background-color: #589222;
 }
