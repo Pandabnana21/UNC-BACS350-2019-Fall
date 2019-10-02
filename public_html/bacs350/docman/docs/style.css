@@ -4,7 +4,7 @@ body {
 
 header {
     border: 5px solid #F6B018;
-    background-color: #lightblue;
+    background-color: lightblue;
     font-family: arial;
     padding: .5em;
 }
@@ -14,11 +14,11 @@ header a {
 }
 
 header a:hover {
-    color: #orange;
+    color: orange;
 }
 
 header h1 {
-    color: #orange;
+    color: orange;
     border: none;
     padding: 0;
     margin: 20px 0;
@@ -48,14 +48,14 @@ h1 {
 
 
 pre {
-    border: 1px solid #lightblue;
+    border: 1px solid lightblue;
     padding: 1em;
     margin: 2em;
 }
 
 .card {
     margin: 20px;
-    border: 1px solid #lightblue;
+    border: 1px solid lightblue;
     width: 40%;
 }
 
@@ -63,5 +63,5 @@ pre {
     padding: 10px;
     font-weight: bold;
     color: white;
-    background-color: #lightblue;
+    background-color: lightblue;
 }

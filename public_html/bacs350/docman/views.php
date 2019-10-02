@@ -54,7 +54,7 @@
                                 <div class="logo col-sm-4">
                                     <div class="pull-right">
                                         <img class="img-rounded img-responsive"
-                                        src="https://process.images.nathab.com/A6dTpd53SmIg0pBfJJhgAz/resize=width:1224/quality=value:60/cache=expiry:31536000/compress/https://www.nathab.com/uploaded-files/carousels/HERO/Alaska-North/36-The-Great-Alaskan-Grizzly-Encounter.jpg"
+ src="https://image.shutterstock.com/image-photo/bear-on-white-260nw-468985424.jpg"
                                         alt="UNC Bear" width="250px">
                                     </div>
                                 </div>
