@@ -43,9 +43,8 @@ header img {
 }
 
 h1 {
-    color: darkblue;
-    text-align: left;
-    font-weight: bold;
+    color: black;
+    text-align: center;
 }
 
 /*h2 {*/
@@ -64,15 +63,13 @@ pre {
     border: 1px solid ghostwhite;
     width: 40%;
     text-align: center;
-   
+    align-items: center;
     
 }
 
 .card-header {
     padding: 10px;
     font-weight: bold;
-    font-size: 18px;
-    font-style: italic;
     color: black;
     background-color: lightblue;
     text-align: center;

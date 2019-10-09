@@ -3,12 +3,12 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Page Title</title>
+    <title>Mitch Demos</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
-    <h1>Main Topic</h1>
+    <h1>Demos</h1>
     <p>This simple page shows how to hook up an external stylesheet.<br>link rel="stylesheet" href="styles.css"</p>
 </body>
 
