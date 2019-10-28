@@ -47,9 +47,9 @@ h4 {
 }
 
 header {
-    border: 5px solid #F6B018;
-    background-color: #0E3D65;
-    font-family: sans-serif;
+    border: 5px solid white;
+    background-color: black;
+    font-family: arial;
     padding: .5em;
 }
 
@@ -62,7 +62,7 @@ header a:hover {
 }
 
 header h1 {
-    color: #F6B018;
+    color: ghostwhite;
     border: none;
     padding: 0;
     margin: 20px 0;
@@ -88,7 +88,7 @@ header img {
 
 
 hr {
-    border: 4px solid #F6B018;
+    border: 4px solid green;
 }
 
 input {
@@ -104,17 +104,19 @@ img {
 
 li {
     margin: 5px 3em;
+    font-size: 24px;
 }
 
 p {
     margin-left: 3em;
+    font-size: 24px;
 }
 
 pre {
-    border: 1px solid #F6B018;
+    border: 1px solid green;
     border-left: 3px solid #F6B018;
     border-right: 3px solid #F6B018;
-    background-color: #f0f0f0;
+    background-color: ghostwhite;
     margin-left: 3em;
     margin-right: 3em;
     padding: 10px 20px;

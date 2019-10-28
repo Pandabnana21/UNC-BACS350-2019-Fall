@@ -9,22 +9,18 @@
     $page_title = "Mitch's Brain";
     
     $content = '
-        <p>
-            <a href="..">Home</a>
+       
+        <p> 
+Hey        </p>
+        <p> 
+            My Class Assignments
         </p>
         <p> 
-            This page is the beginning of an ongoing project in BACS 350.
-        </p>
-        <p> 
-            It is a custom information manager.
-        </p>
-        <p> 
-            Different rooms within this PHP app will contain different types of info.
-        </p>
+Here are some Links        </p>
         
         <ul>
             <li>
-                <a href="demo">Code Demos</a>
+                <a href="https://shrinking-world.com/unc/bacs350">Class website</a>
             </li>
             <li>
                 <a href="pattern">Design Patterns</a>
@@ -32,7 +28,12 @@
             <li>
                 <a href="project">Projects</a>
             </li>
+              <li>
+                <a href="skills">Skills</a>
+            </li>
         </ul>
+
+        
     ';
 
     include 'views.php';

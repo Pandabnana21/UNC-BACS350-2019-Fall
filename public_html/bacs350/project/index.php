@@ -29,6 +29,12 @@
              <li>
                 <a href="../planner">Project #4 - Planner Sheet</a>
             </li>
+            <li>
+                <a href="../superhero">Superhero</a>
+            </li>
+            <li>
+                <a href="../notes">Notes App</a>
+            </li>
         </ul>
     ';
 
