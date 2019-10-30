@@ -33,7 +33,7 @@
         if (update_note ($db, $id, $title, $body, $date))
         {
             header("Location: index.php");
-        };
+        }
     }
  
 ?>

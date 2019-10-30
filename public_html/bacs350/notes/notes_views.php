@@ -67,7 +67,7 @@
                     </tr>
                     <tr>
                         <td><label>Title:</label></td>
-                        <td><input type="text" name="title" value="' . $title . '"></td>
+                        <td><a><input type="link" name="title" value="' . $title . '"></a></td>
                     </tr>
                     <tr>
                         <td><label>Body:</label></td>

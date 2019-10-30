@@ -68,25 +68,32 @@
         $report  = $record['report'];
         $score = "score";
         $card_body = '
-            <form action="update.php" method="post">
+            <form action="insert.php" method="post">
                 <table class="table table-hover">
                     <tr>
-                        <td><label>Date:</label></td>
-                        <td><input type="date" name="date" value="' . $date . '"></td>
+                        <td width="500"><label>Date:</label></td>
+                        <td><input type="date" name="date"></td>
                     </tr>
                     <tr>
-                        <td><label>Title:</label></td>
-                        <td><input type="text" name="designer" value="' . $designer . '"></td>
+                        <td><label>Designer:</label></td>
+                        <td><input type="text" name="designer"></td>
                     </tr>
                     <tr>
-                        <td><label>Body:</label></td>
-                        <td><textarea name="url">' . $url . '</textarea></td>
+                        <td><label>Page to Review:</label></td>
+                        <td><input type="url" name="url"></td>
                     </tr>
                     <tr>
-                        <td><button class="button">Save Record</button></td>
+                        <td><label>Review Score:</label></td>
+                        <td><input type="number" name="score"></td>
+                    </tr>
+                    <tr>
+                        <td><label>Comments:</label></td>
+                        <td><textarea name="report"></textarea></td>
+                    </tr>
+                    <tr>
+                        <td><button class="button">Submit Review</button></td>
                     </tr>
                 </table>
-                <input type="hidden" name="id" value="' . $id . '">
             </form>
         ';
         return render_card($card_title, $card_body);

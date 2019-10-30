@@ -11,7 +11,7 @@
 
     
     // Button to go to other views
-    $add_button = '<p><a class="button" href="insert.php">Add Note</a></p>';
+    $add_button = '<p><a class="button" href="insert.php">Add Review</a></p>';
 
     
     // Display the HTML in the page

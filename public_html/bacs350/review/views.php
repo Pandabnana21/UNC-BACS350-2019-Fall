@@ -41,10 +41,9 @@
                     <main>
 
                         ' . $content . '
-                        
-
+                
                     </main>
-                    <h1>This  Doesnt work </h1>
+                
                 </body>
             </html>
         ';

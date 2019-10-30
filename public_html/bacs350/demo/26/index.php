@@ -20,9 +20,8 @@
 
     // Create main part of page content
     $settings = array(
-        "site_title" => "UNC BACS 350",
-        "page_title" => "Demo 26 - Page Templates", 
-        "logo"       => "Bear.png",
+        "site_title" => "HTML Templates",
+        "page_title" => "Demo 26", 
         "style"      => 'style.css',
         "content"    => $content);
 
