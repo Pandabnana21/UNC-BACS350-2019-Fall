@@ -16,16 +16,16 @@ CREATE TABLE reviews (
 
 -- Connection Settings  - PHP Variables 
 
-$dbname = 'bearsnin_350';
-$username = 'bearsnin_me';
-$password = '12345';
-$port = '3306';
-$host = "localhost:$port";
+  $dbname = 'bearsnin_350';
+        $username = 'bearsnin_me';
+        $password = '12345';
+        $port = '3306';
+        $host = "localhost:$port";
 
 
 -- CREATE
 
-INSERT INTO reviews (designer, url, report, score, date)
+INSERT INTO reviews (designer, url, report, score, date) 
 VALUES (:designer, :url, :report, :score, :date);
 
 

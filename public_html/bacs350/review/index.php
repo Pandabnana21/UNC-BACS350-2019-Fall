@@ -16,5 +16,5 @@
 
     // Show the page
     $content = "$add_button $list";
-    echo render_page('UNC BACS 350', "Reviews - Design Reviews", $content);
+    echo render_page('BACS 350', "Project Reviews - Design Reviews", $content);
 ?>

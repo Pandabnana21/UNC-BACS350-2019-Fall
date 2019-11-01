@@ -41,9 +41,8 @@
                     <main>
 
                         ' . $content . '
-                
+
                     </main>
-                
                 </body>
             </html>
         ';
@@ -51,15 +50,15 @@
 
 
     // render_card -- build HTML text for a card
-    function render_card($card_title, $card_body) {
+    function render_card($title, $body) {
         return '
             <div class="card card-wide">
                 <div class="card-header">
-                    ' . $card_title . '
+                    ' . $title . '
                 </div>
                 <div class="card-body card-padding">
 
-                    ' . $card_body . '
+                    ' . $body . '
 
                 </div>
             </div>

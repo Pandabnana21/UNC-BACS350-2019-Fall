@@ -13,6 +13,7 @@
     $score = filter_input(INPUT_GET, 'score');
     $date = filter_input(INPUT_GET, 'date');
 
+
     // Show form when vars not set
     if ($designer == '' || $url == '' || $report == '' || $score == '' || $date == '') {
         

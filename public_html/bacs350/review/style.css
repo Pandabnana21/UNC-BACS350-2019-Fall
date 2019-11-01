@@ -3,9 +3,9 @@ body {
 }
 
 header {
-    border: 5px solid #F6B018;
-    background-color: #0E3D65;
-    font-family: sans-serif;
+    border: 5px solid lightcyan;
+    background-color: darkgreen;
+    font-family: arial;
     padding: .5em;
 }
 
@@ -18,8 +18,8 @@ header a:hover {
 }
 
 header h1 {
-    color: #F6B018;
-    border: none;
+    color: lightcyan;
+    border: 1px;
     padding: 0;
     margin: 20px 0;
     box-shadow: none;
@@ -28,8 +28,8 @@ header h1 {
 
 header h2 {
     color: white;
-    background-color: #0E3D65;
-    box-shadow: none;
+    background-color: darkgreen;
+    box-shadow: 3px;
     text-align: left;
     margin: 0;
     padding: 0;
@@ -43,7 +43,7 @@ header img {
 }
 
 h1 {
-    color: #0E3D65;
+    color: darkgreen;
 }
 
 /*h2 {*/
@@ -56,28 +56,28 @@ input {
 }
 
 pre {
-    border: 1px solid #0E3D65;
-    padding: 1em;
+    border: 2px solid #0E3D65;
+    padding: 2em;
     margin: 2em;
 }
 
 textarea {
-    width: 80%;
-    height: 50em;
+    width: 20em;
+    height: 20em;
 }
 
 .button {
-    border: 3px solid #0E3D65;
+    border: 3px solid darkgreen;
     color: #0E3D65;
-    background-color: #F6B018;
+    background-color: lightcyan;
     border-radius: 10px;
     padding: 10px;
     margin: 1em;
 }
 
 .card {
-    margin: 20px;
-    border: 1px solid #0E3D65;
+    margin: 30px;
+    border: 2px solid darkgreen;
     width: 40%;
     float: left;
 }
@@ -87,8 +87,8 @@ textarea {
 }
 
 .card-header {
-    padding: 10px;
+    padding: 15px;
     font-weight: bold;
     color: white;
-    background-color: #0E3D65;
+    background-color: darkgreen;
 }
