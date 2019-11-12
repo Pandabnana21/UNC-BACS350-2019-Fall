@@ -19,7 +19,7 @@ Reveal.initialize({
     dependencies: [
         { src: 'https://revealjs.com/lib/js/classList.js',
             condition: function() { return !document.body.classList; } },
-        // { src: 'https://revealjs.com/js/reveal.js', async: true},
+       //  { src: 'https://revealjs.com/js/reveal.js', async: true},
         { src: 'https://revealjs.com/plugin/markdown/marked.js',
             condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
         { src: 'https://revealjs.com/plugin/markdown/markdown.js',
