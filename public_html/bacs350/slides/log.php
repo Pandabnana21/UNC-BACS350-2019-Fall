@@ -3,7 +3,7 @@
     require_once 'db.php';
 
 
-    
+    /*
     This code shows how to hook up a logging utility.
 
     usage:
@@ -21,7 +21,7 @@
           text varchar(100) NOT NULL,
           PRIMARY KEY (id)
         );
-   
+    */
 
 
     /* ----------------------------------------------

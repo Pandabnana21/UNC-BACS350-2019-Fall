@@ -12,12 +12,11 @@
 
 ## Connection Settings  - PHP Variables 
 
-    $dbname = 'bearsnin_350';
+    $dbname = 'bearsnin_me';
     $username = 'bearsnin_me';
     $password = '12345';
     $port = '3306';
     $host = "localhost:$port";
-
 
 ## CREATE
 

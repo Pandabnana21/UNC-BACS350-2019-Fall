@@ -14,23 +14,27 @@
     // Connect to the remote database
     function remote_connect() {
         // Set up .gitignore to prevent this file in git repo
-        //require_once 'secret_settings.php';
-
+        require_once 'secret_settings.php';
+   $dbname = 'bearsnin_me';
+    $username = 'bearsnin_me';
+    $password = '12345';
+    $port = '3306';
+    $host = "localhost:$port";
         $db_connect = "mysql:host=$host:$port;dbname=$dbname";
         return db_connect($db_connect, $username, $password);
     }
- 
+
 
     // Local Host Database settings
     function local_connect() {
         $host = 'localhost';
-        $dbname = 'bearsnin_350';
-        $username = 'bearsnin_me';
-        $password = '12345';
+        $dbname = 'bacs350';
+        $username = 'root';
+        $password = '';
         $db_connect = "mysql:host=$host;dbname=$dbname";
         return db_connect($db_connect, $username, $password);
     }
-//Issue here soemwhere
+
 
     // Open the database or die
     function db_connect($db_connect, $username, $password) {
@@ -38,11 +42,11 @@
         //  echo "<h2>DB Connection</h2><p>Connect String:  $db_connect, $username, $password</p>";
         try {
             $db = new PDO($db_connect, $username, $password);
-            // echo '<p><b>Successful Connection</b></p>';
+             echo '<p><b>Successful Connection</b></p>';
             return $db;
         } catch (PDOException $e) {
             $error_message = $e->getMessage();
-            echo "<p>Error: jjjjjj $error_message</p>";
+            echo "<p>Error: $error_message</p>";
             die();
         }
     }
@@ -55,7 +59,6 @@
             return local_connect();
         }
         else {
-            echo( "hey");
             return remote_connect();
         }
     }

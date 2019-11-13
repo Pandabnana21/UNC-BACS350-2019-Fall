@@ -1,6 +1,6 @@
 <?php
 
-    //require_once 'log.php';
+    require_once 'log.php';
     require_once 'slides.php';
     require_once 'views.php';
 
