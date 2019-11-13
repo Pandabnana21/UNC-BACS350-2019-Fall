@@ -14,12 +14,12 @@
     // Connect to the remote database
     function remote_connect() {
         // Set up .gitignore to prevent this file in git repo
-        require_once 'secret_settings.php';
-   $dbname = 'bearsnin_me';
-    $username = 'bearsnin_me';
-    $password = '12345';
-    $port = '3306';
-    $host = "localhost:$port";
+        //require_once 'secret_settings.php';
+        $host = 'bears98.com';
+        $dbname = 'bearsnin_350';
+        $port = '3306';
+        $username = 'bearsnin_me';
+        $password = '12345';
         $db_connect = "mysql:host=$host:$port;dbname=$dbname";
         return db_connect($db_connect, $username, $password);
     }
@@ -27,22 +27,22 @@
 
     // Local Host Database settings
     function local_connect() {
-        $host = 'localhost';
-        $dbname = 'bacs350';
-        $username = 'root';
-        $password = '';
-        $db_connect = "mysql:host=$host;dbname=$dbname";
-        return db_connect($db_connect, $username, $password);
+//        $host = 'localhost';
+//        $dbname = 'bearsnin_350';
+//        $username = 'bearsnin_me';
+//        $password = '12345';
+//        $db_connect = "mysql:host=$host;dbname=$dbname";
+//        return db_connect($db_connect, $username, $password);
     }
 
 
     // Open the database or die
     function db_connect($db_connect, $username, $password) {
         // Enable these echo statements to debug the connection.
-        //  echo "<h2>DB Connection</h2><p>Connect String:  $db_connect, $username, $password</p>";
+        echo "<h2>DB Connection</h2><p>Connect String:  $db_connect, $username, $password</p>";
         try {
             $db = new PDO($db_connect, $username, $password);
-             echo '<p><b>Successful Connection</b></p>';
+            echo '<p><b>Successful Connection</b></p>';
             return $db;
         } catch (PDOException $e) {
             $error_message = $e->getMessage();
@@ -59,6 +59,7 @@
             return local_connect();
         }
         else {
+            echo( "Remote Connected");
             return remote_connect();
         }
     }

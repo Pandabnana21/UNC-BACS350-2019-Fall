@@ -3,14 +3,14 @@
     require_once 'db.php';
 
 
-    /*
-    This code shows how to hook up a logging utility.
+    
+   // This code shows how to hook up a logging utility.
 
     usage:
         $text_message = "This text message";
-        require_once 'log.php';
-        log_event($text_message);
-        render_history();
+       // require_once 'log.php';
+       // log_event($text_message);
+       // render_history();
 
     SQL Database table
 
