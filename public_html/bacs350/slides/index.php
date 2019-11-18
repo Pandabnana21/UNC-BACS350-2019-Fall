@@ -1,6 +1,6 @@
 <?php
 
-    require_once 'log.php';
+   // require_once 'log.php';
     require_once 'slides.php';
     require_once 'views.php';
 
@@ -20,8 +20,8 @@
 
     // Create main part of page content
     $settings = array(
-        "site_title" => "Slide Slinger",
-        "page_title" => "The Lessonator",
+        "site_title" => "Slide Creator",
+        "page_title" => "Mitch's Slideshow creator",
         "logo"       => "Bear.png",
         "style"      => 'style.css',
         "content"    => $content);
