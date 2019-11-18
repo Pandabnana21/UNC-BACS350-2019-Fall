@@ -30,11 +30,7 @@
                                     <h2>' . $page_title . '</h2>
                                 </div>
                                 <div class="logo col-sm-4">
-                                    <div class="pull-right">
-                                        <img class="img-rounded img-responsive" 
-                                        src="https://pbs.twimg.com/profile_images/446134106829504512/hxJKhunu_400x400.jpeg" 
-                                        alt="UNC Bear" width="150px">
-                                    </div>
+                                    /
                                 </div>
                             </div>
                         </div>

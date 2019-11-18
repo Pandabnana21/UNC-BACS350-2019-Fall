@@ -20,20 +20,22 @@ Here are some Links        </p>
         
         <ul>
             <li>
-                <a href="https://shrinking-world.com/unc/bacs350">Class website</a>
+              <h2>  <a href="https://shrinking-world.com/unc/bacs350">Class website</a> </h2>
             </li>
             <li>
-                <a href="pattern">Design Patterns</a>
+               <h2> <a href="project">Projects</a> </h2>
             </li>
             <li>
-                <a href="project">Projects</a>
+               <h2> <a href="https://github.com/Pandabnana21/UNC-BACS350-2019-Fall">My Repository </a> </h2>
             </li>
+            <li>
+              <h2>  <a href="pattern">Design Patterns</a> </h2>
+            </li>
+            
               <li>
-                <a href="skills">Skills</a>
+               <h2> <a href="skills">Skills</a> </h2>
             </li>
-             <li>
-                <a href="https://github.com/Pandabnana21/UNC-BACS350-2019-Fall">My Repository </a>
-            </li>
+             
         </ul>
 
         

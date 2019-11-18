@@ -66,15 +66,15 @@ header h1 {
     border: none;
     padding: 0;
     margin: 20px 0;
-    box-shadow: none;
-    text-align: left;
+    box-shadow: 1px;
+    text-align: center;
 }
 
 header h2 {
     color: white;
     background-color: #0E3D65;
     box-shadow: none;
-    text-align: left;
+    text-align: center;
     margin: 0;
     padding: 0;
 
@@ -110,6 +110,7 @@ li {
 p {
     margin-left: 3em;
     font-size: 24px;
+  
 }
 
 pre {
@@ -121,7 +122,9 @@ pre {
     margin-right: 3em;
     padding: 10px 20px;
 }
-
+col-sm-8{
+    text-align: center;
+}
 
 /* ----------------------------------------------- */
 /* Classes */

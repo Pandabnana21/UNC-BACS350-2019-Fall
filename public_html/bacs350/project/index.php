@@ -18,13 +18,16 @@
         
         <ul>
             <li>
-                <a href="../../">Project #1 - Setup Web Hosting</a>
+                <a href="../../">Setup Web Hosting</a>
             </li>
             <li>
-                <a href="02">Project #2 - Page Template</a>
+                <a href="02">Page Template</a>
             </li>
             <li>
-                <a href="03">Project #3 - Superhero Cards PHP</a>
+                <a href="03">Superhero Cards PHP</a>
+            </li>
+            <li>
+                <a href="../subscriber">sql Subscriber list</a>
             </li>
              <li>
                 <a href="../planner">Project #4 - Planner Sheet</a>
@@ -34,6 +37,9 @@
             </li>
             <li>
                 <a href="../notes">Notes App</a>
+            </li>
+             <li>
+                <a href="../slides">Slideshow Creator</a>
             </li>
         </ul>
     ';
