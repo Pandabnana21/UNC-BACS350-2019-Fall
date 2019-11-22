@@ -26,11 +26,11 @@
                         <div class="container-fluid">
                             <div class="row">
                                 <div class="col-sm-8">
-                                    <h1>' . $site_title . '</h1>
-                                    <h2>' . $page_title . '</h2>
+                                    <h3>' . $site_title . '</h3>
+                                    <h3>' . $page_title . '</h3>
                                 </div>
                                 <div class="logo col-sm-4">
-                                    /
+                                    
                                 </div>
                             </div>
                         </div>

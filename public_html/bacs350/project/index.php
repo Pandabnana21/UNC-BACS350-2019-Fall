@@ -18,28 +18,28 @@
         
         <ul>
             <li>
-                <a href="../../">Setup Web Hosting</a>
+              <button>  <a href="../../">Setup Web Hosting</a> </button>
             </li>
             <li>
-                <a href="02">Page Template</a>
+               <button> <a href="02">Page Template</a>
             </li>
             <li>
-                <a href="03">Superhero Cards PHP</a>
+               <button> <a href="03">Superhero Cards PHP</a> </button>
             </li>
             <li>
-                <a href="../subscriber">sql Subscriber list</a>
+              <button>  <a href="../subscriber">sql Subscriber list</a> </button>
             </li>
              <li>
-                <a href="../planner">Project #4 - Planner Sheet</a>
+               <button> <a href="../planner">Project #4 - Planner Sheet</a> </button>
             </li>
             <li>
-                <a href="../superhero">Superhero</a>
+              <button>  <a href="../superhero">Superhero</a> </button>
             </li>
             <li>
-                <a href="../notes">Notes App</a>
+               <button> <a href="../notes">Notes App</a> </button>
             </li>
              <li>
-                <a href="../slides">Slideshow Creator</a>
+              <button>  <a href="../slides">Slideshow Creator</a> </button>
             </li>
         </ul>
     ';
