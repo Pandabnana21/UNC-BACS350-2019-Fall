@@ -1,1 +1,1 @@
-# UNC-BACS350-2019-Fall
+Intermidate Web Development Class Repository. Found at Bears98.com/bacs350
