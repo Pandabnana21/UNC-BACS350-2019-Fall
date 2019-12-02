@@ -14,7 +14,7 @@
 
     // Show Page
     $settings = array(
-        "site_title" => "BACS 350 Demo",
+        "site_title" => "BACS 350 ",
         "page_title" => "Page log history", 
         "style"      => 'style.css',
         'user'       => '',

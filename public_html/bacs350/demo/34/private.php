@@ -35,7 +35,7 @@
     $settings = array(
         "site_title" => "BACS 350 Demo",
         "page_title" => "Private Page (requires login)", 
-        "logo"       => "Bear.png",
+       
         "style"      => 'style.css',
         'user'       => user_info(),
         "content"    => $content);

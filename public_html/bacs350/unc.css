@@ -4,7 +4,8 @@
 body {
     padding: 0;
     margin: 0;
-    background-color: azure;
+  background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(255,255,255,0.6026785714285714) 54%, rgba(0,0,0,1) 100%);
 }
 
 article {
@@ -113,7 +114,7 @@ li {
 p {
     margin-left: 3em;
     font-size: 24px;
-  
+  color: white;
 }
 
 pre {

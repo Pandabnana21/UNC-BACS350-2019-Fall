@@ -15,7 +15,7 @@
         require_login('private.php');
         
         // Display the page content
-        $content = render_button('Other Demos', '..');
+        
         $content .= render_button('Show Log', 'pagelog.php');
         
         $content .= '<h2>Private Page</h2>
