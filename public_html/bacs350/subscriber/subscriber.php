@@ -6,7 +6,7 @@
         $dbname = 'bearsnin_subscribers';
         $db_connect = "mysql:host=localhost:$port;dbname=$dbname";
         $username = 'bearsnin';
-        $password = '$Tanley2121';
+        $password = '12345';
         return new PDO($db_connect, $username, $password);
     }
 
