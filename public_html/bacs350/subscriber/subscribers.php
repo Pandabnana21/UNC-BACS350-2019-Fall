@@ -88,7 +88,7 @@
     // Create a database connection
     $dbname = 'bearsnin_subscribers';
     $username = 'bearsnin';
-    $password = '$Tanley2121';
+    $password = '12345';
     $db = subscriber_database($dbname, $username, $password);
 
 ?>
