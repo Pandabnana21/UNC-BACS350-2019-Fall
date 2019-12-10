@@ -98,7 +98,7 @@
     function bluehost_connect() {
         $dbname = 'bearsnin_superhero';
         $username = 'bearsnin';
-        $password = '$Tanley2121';
+        $password = '12345';
         $port = '3306';
         $host = "localhost:$port";
         return superhero_database($host, $dbname, $username, $password);
