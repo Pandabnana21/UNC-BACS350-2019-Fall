@@ -17,7 +17,7 @@
     $dbname = 'bearsnin_subscribers';
     $db_connect = "mysql:host=localhost:$port;dbname=$dbname";
     $username = 'bearsnin';
-    $password = '$Tanley2121';
+    $password = '123456';
     
     echo "<h3>$db_connect</h3>";
     
